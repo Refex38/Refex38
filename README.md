@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Rafael López - Refex
 
-### 💻 Ingeniero de Software | Arquitecto de Sistemas | Especialista en Datos 
+### 💻 Ingeniero de Software | Arquitecto de Sistemas | Especialista en Datos | Aprendiendo para ser un AI Engineer
 
 ---
 
